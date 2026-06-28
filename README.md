@@ -1,5 +1,7 @@
 # ChainFund · 基于区块链的去中心化众筹系统
 
+> 代码仓库：https://github.com/JiahongLyu/Blockchainhw
+
 参考 petshop 实验，使用 **Hardhat + ethers.js + MetaMask** 完成智能合约编写、本地链部署与前端展示。在核心众筹功能之上，强化了链上（智能合约）深度。
 
 ## 一、核心功能
