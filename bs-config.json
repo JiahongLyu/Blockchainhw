@@ -1,0 +1,5 @@
+{
+  "server": {
+    "baseDir": ["./src", "./artifacts/contracts", "./ignition/deployments"]
+  }
+}

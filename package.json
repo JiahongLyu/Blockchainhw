@@ -1,0 +1,16 @@
+{
+  "name": "crowdfunding-dapp",
+  "version": "1.0.0",
+  "description": "基于区块链的众筹系统（合约 + 前端 Dapp）",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "hardhat test",
+    "compile": "hardhat compile",
+    "deploy": "hardhat ignition deploy ignition/modules/Crowdfunding.js --network localhost"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.19",
+    "lite-server": "^2.6.1"
+  }
+}
